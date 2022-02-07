@@ -42,7 +42,8 @@ export default class Command extends BaseCommand {
 
             mimetype: Mimetype.gif,
 
-            caption: `hey there am alive!am 𝟡𝟡𝟡𝐛𝐨𝐭𝐭𝐨 use /help to check my command list ? \n` }
+            caption: `hey there am alive!
+            am 𝟡𝟡𝟡𝐛𝐨𝐭𝐭𝐨 use /help to check my command list ? \n` }
 
         )
 
