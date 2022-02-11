@@ -32,7 +32,7 @@
 
         const n = [
 
-            './assets/Rin/rin-hi.mp4'
+
 
         ]
 
