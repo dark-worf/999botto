@@ -20,7 +20,7 @@
 
 
 
-            category: 'misc',
+
 
 
 
@@ -30,11 +30,11 @@
 
     run = async (M: ISimplifiedMessage): Promise<void> => {
 
-        const n = [
 
 
 
-        ]
+
+
 
 
 
