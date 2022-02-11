@@ -24,11 +24,11 @@
 
 
 
-        })
+
 
     }
 
-    run = async (M: ISimplifiedMessage): Promise<void> => {
+
 
 
 
