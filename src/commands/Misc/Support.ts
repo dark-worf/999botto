@@ -20,7 +20,7 @@ export default class Command extends BaseCommand {
 
             description: 'Gets the support group links',
 
-            category: 'general',
+            category: 'misc',
 
             usage: `${client.config.prefix}Support`,
 
